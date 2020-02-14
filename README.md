@@ -1,7 +1,7 @@
 # C-sharp
 
-Kod från kursen Programmering med C#
+Kod från kursen _Programmering med C#_
 
-__________________________________________
+___________________________________________
 
-Code from the course Programming with C#
+Code from the course _Programming with C#_
