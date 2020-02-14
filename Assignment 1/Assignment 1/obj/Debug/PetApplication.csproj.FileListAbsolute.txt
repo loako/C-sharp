@@ -1,0 +1,7 @@
+c:\users\anton\source\repos\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+c:\users\anton\source\repos\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+c:\users\anton\source\repos\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+c:\users\anton\source\repos\Assignment 1\Assignment 1\obj\Debug\PetApplication.csproj.CoreCompileInputs.cache
+c:\users\anton\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+c:\users\anton\source\repos\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+c:\users\anton\source\repos\Assignment 1\Assignment 1\obj\Debug\PetApplication.csprojResolveAssemblyReference.cache

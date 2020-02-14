@@ -1,0 +1,33 @@
+E:\assignment6\bin\Debug\assignment6.exe.config
+E:\assignment6\bin\Debug\assignment6.exe
+E:\assignment6\bin\Debug\assignment6.pdb
+E:\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+E:\assignment6\obj\Debug\assignment6.cmbPriority.resources
+E:\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+E:\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+E:\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+E:\assignment6\obj\Debug\assignment6.exe
+E:\assignment6\obj\Debug\assignment6.pdb
+E:\assignment6\obj\Debug\assignment6.AboutBox.resources
+D:\assignment6\bin\Debug\assignment6.exe.config
+D:\assignment6\bin\Debug\assignment6.exe
+D:\assignment6\bin\Debug\assignment6.pdb
+D:\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+D:\assignment6\obj\Debug\assignment6.AboutBox.resources
+D:\assignment6\obj\Debug\assignment6.cmbPriority.resources
+D:\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+D:\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+D:\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+D:\assignment6\obj\Debug\assignment6.exe
+D:\assignment6\obj\Debug\assignment6.pdb
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\bin\Debug\assignment6.exe.config
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\bin\Debug\assignment6.exe
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\bin\Debug\assignment6.pdb
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.AboutBox.resources
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.cmbPriority.resources
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.exe
+C:\Users\Anton\Documents\Skola\c#\Assignment 6 Complete\assignment6\obj\Debug\assignment6.pdb
